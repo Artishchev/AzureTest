@@ -1,0 +1,1 @@
+Invoke-WebRequest https://go.microsoft.com/fwlink/?linkid=843454 -OutFile $(System.DefaultWorkingDirectory)\dotnet.zip
